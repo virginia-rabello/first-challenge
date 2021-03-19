@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* Style for the body */
 body {
     background-color: #d9dcd6;
@@ -92,7 +93,6 @@ header nav ul li a {
     font-size: 16px;
 }
 
-
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -103,6 +103,7 @@ header nav ul li a {
     margin: 10px auto;
     max-width: 150px;
 }
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
