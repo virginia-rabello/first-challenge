@@ -14,3 +14,5 @@ Here are some issues that were identified and the solutions proposed:
 
     * Lack of comments - Comments are very important for other coders read and understand your code properly. Some brief but instructive comments were added.
 
+    * Title - The title was too generic which difficult searches. A new title was created.
+
